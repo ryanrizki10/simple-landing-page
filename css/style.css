@@ -234,3 +234,35 @@ body{
     font-size: 14px;
     margin-top: 50px;
 }
+
+.container-footer{
+    margin-top: 50px;
+    background-color: teal;
+}
+
+.footer-flex{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+
+.footer-items-logo{
+    width: 400px;
+}
+
+.footer-items-logo img{
+    width: 100px;
+    border-radius: 50%;
+}
+
+.footer-items-text{
+    width: 600px;
+    text-align: right;
+}
+
+.footer-items-text p{
+    color: white;
+    font-size: 14px;
+    line-height: 20px;
+}
