@@ -17,6 +17,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    background-attachment: fixed;
 
 }
 
@@ -265,4 +266,3 @@ body{
     color: white;
     font-size: 14px;
     line-height: 20px;
-}
